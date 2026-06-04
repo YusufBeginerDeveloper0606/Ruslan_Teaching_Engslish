@@ -373,6 +373,10 @@ footer {
 /* обычный телефон */
 
 @media (max-width: 768px) {
+    * {
+        font-size: 30px !important;
+        }
+
 
       header {
 
