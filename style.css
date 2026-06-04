@@ -485,11 +485,13 @@ footer {
         font-size: 2rem;
     }
 
+    body {
+        background: lime !important;
+    }
+
 }
 
-body {
-    background: lime !important;
-}
+
 
 /* маленький теелфон */
 
