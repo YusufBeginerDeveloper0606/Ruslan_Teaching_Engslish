@@ -487,6 +487,10 @@ footer {
 
 }
 
+body {
+    background: lime !important;
+}
+
 /* маленький теелфон */
 
 @media (max-width: 480px) {
